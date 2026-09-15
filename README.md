@@ -1,5 +1,5 @@
-# **Customer-Support-Quality-KPI-Dashboard**
-## This project uses Power BI Desktop and Excel to help businesses prevent customer loss and improve customer service.
+# **Customer-Churn-Risk-Analysis-Dashboard**
+# **This project uses Power BI Desktop and Excel to analyze customer support operations, track KPI performance, and surface actionable insights for improving business**.
 
 ## **Key Features:**
 📌 Interactive Churn Analysis: Explore customer churn across different segments using dynamic filters and KPI visualizations to identify patterns and higher-risk customer groups
