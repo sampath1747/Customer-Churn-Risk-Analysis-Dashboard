@@ -2,7 +2,7 @@
 ## This project uses Power BI Desktop and Excel to help businesses prevent customer loss and improve customer service.
 
 ## **Key Features:**
-📌 Predictive Churn Modeling: Identify at-risk customers before they churn, enabling proactive interventions and retention strategies.
+📌 Interactive Churn Analysis: Explore customer churn across different segments using dynamic filters and KPI visualizations to identify patterns and higher-risk customer groups
 
 📌 Customer Segmentation: Group customers based on shared characteristics and churn risk, allowing for targeted marketing and engagement efforts.
 ![Customer Churn Dashboard](Customer%20Churn%20Dashboard.png)
@@ -30,4 +30,4 @@
 3. Connect to your data source.
 4. Start improving customer retention!
 
-This project demonstrates the use of **Microsoft Excel, SQL, and Power BI** to analyze operational support data, identify trends and discrepancies, maintain KPI reporting, and convert raw records into actionable insights. It reflects an analytical workflow focused on **data accuracy, reporting efficiency, dashboard maintenance, and data-driven decision-making**.
+This project demonstrates the use of **Microsoft Excel and Power BI** to analyze operational support data, identify trends and discrepancies, maintain KPI reporting, and convert raw records into actionable insights. It reflects an analytical workflow focused on **data accuracy, reporting efficiency, dashboard maintenance, and data-driven decision-making**.
